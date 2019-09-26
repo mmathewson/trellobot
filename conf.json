@@ -1,16 +1,16 @@
 {
     "boardIDs": [
-        "tNbPCydx"
+        "PNM1q26R, uX0DG8Gc, 4PpxB5of, GaA8lEzO, 41GPMXIe"
     ],
-    "serverID": "138520312697454592",
-    "channelID": "453042376898904080",
+    "serverID": "535559984713433098",
+    "channelID": "626425010491359233",
     "pollInterval": 10000,
     "contentString": "",
     "enabledEvents": [
         "cardCreated"
     ],
     "userIDs": {
-        "theangush": "138520076427984896"
+        "michelle_mathewson": "519579084016189442"
     },
     "prefix": "."
 }
